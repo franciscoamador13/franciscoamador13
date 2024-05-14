@@ -7,7 +7,7 @@
 
 <h2>My technologies</h2>
 
-## Languages
+<h3>Languages</h3>
 
 ![Static Badge](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=JavaScript)
