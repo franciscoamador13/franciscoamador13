@@ -9,15 +9,12 @@
 
 ## Languages
 
-![Static Badge](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=HTML5&logoColor=white)       
+![Static Badge](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=JavaScript)
 ![Static Badge](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white)
 
-<br>
-
 ## Frameworks and others
 
-<br>
 ![Static Badge](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js)
 
 ![Static Badge](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white)
