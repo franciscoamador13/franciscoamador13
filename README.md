@@ -1,7 +1,7 @@
 <h1 align="center">Francisco Amador 🌌</h1>
 
 <p align="center" >
-  <strong style="font-size: 24px;">Full Stack Developer</strong>
+  <strong>Full Stack Developer</strong>
 </p>
 
 ---
