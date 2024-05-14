@@ -2,7 +2,6 @@
 
 **`Full Stack developer`**
 
-<h2>My technologies</h2>
 
 <h3>Languages</h3>
 
