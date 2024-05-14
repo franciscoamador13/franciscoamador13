@@ -1,8 +1,8 @@
 <h1 align="center">Francisco Amador 🌌</h1>
 
-<h1 align="center">
+<h2 align="center">
   <strong>Full Stack Developer</strong>
-</h1>
+</h2>
 
 ---
 
