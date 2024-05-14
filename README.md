@@ -6,6 +6,7 @@
 
 
 My technologies
+<br>
 ![Static Badge](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js)
 ![Static Badge](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=JavaScript)
