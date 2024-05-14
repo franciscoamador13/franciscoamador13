@@ -2,9 +2,6 @@
 
 **`Full Stack developer`**
 
-
-
-
 <h2>My technologies</h2>
 
 <h3>Languages</h3>
@@ -13,7 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=JavaScript)
 ![Static Badge](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white)
 
-## Frameworks and others
+<h3>Frameworks and others</h3>
 
 ![Static Badge](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js)
 ![Static Badge](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white)
