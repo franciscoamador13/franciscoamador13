@@ -3,17 +3,6 @@
 Welcome to my GitHub profile!  
 I'm a curious explorer passionate about **machine learning**, **data science**, and the endless possibilities of technology. I'm constantly learning, building, and sharing projects I love.
 
-## 🚀 What I'm Exploring
-- **Machine Learning** with [scikit-learn](https://scikit-learn.org/)
-- **Python** for data wrangling, analysis, and automation
-- **SQL & PostgreSQL** for robust, scalable data storage and queries
-- Hands-on learning
-
-## 🌱 Current Focus
-- Building small ML projects & data analysis scripts
-- Practicing SQL queries and database design
-- Sharing my learning journey via code and notebooks
-
 ## 🛠️ Tools & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -24,7 +13,7 @@ I'm a curious explorer passionate about **machine learning**, **data science**, 
 
 ## 📫 Let's Connect!
 - LinkedIn: [franciscoamador13](https://www.linkedin.com/in/franciscoamador13/)
-- Feel free to open issues or pull requests in my repos—collaboration and feedback are always welcome!
+- Feel free to open issues or pull requests in my repos - collaboration and feedback are always welcome!
 
 ---
 
