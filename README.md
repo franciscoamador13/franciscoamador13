@@ -1,7 +1,7 @@
 # Hi, I'm Francisco Amador 👋
 
 **Computer Engineering student @ IPLeiria
-Building toward a career as an **AI/ML Engineer** focused on end-to-end ML systems, backend APIs, and production-ready pipelines.
+Building toward a career as an **AI/ML Engineer** focused on end-to-end ML systems, backend APIs, and production-ready pipelines.**
 
 ---
 
